@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cohorts Assigment Week 2.props" />
+</Project>

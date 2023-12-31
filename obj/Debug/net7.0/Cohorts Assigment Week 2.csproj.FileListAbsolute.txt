@@ -1,0 +1,37 @@
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\appsettings.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Cohorts Assigment Week 2.exe
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Cohorts Assigment Week 2.deps.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Cohorts Assigment Week 2.runtimeconfig.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Cohorts Assigment Week 2.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Cohorts Assigment Week 2.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.csproj.AssemblyReference.cache
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.AssemblyInfoInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.AssemblyInfo.cs
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.csproj.CoreCompileInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets\msbuild.Cohorts Assigment Week 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Cohorts Assigment Week 2.props
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Cohorts Assigment Week 2.props
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Cohorts Assigment Week 2.props
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\scopedcss\bundle\Cohorts Assigment Week 2.styles.css
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.csproj.CopyComplete
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\refint\Cohorts Assigment Week 2.dll
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.pdb
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\Cohorts Assigment Week 2.genruntimeconfig.cache
+C:\Users\inanc\OneDrive\Masaüstü\Cohorts Assigment Week 2\Cohorts Assigment Week 2\obj\Debug\net7.0\ref\Cohorts Assigment Week 2.dll
